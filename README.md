@@ -1,4 +1,4 @@
-# TSNE
+# tSNE
 
 # **Description**
 
